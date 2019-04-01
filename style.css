@@ -1,0 +1,27 @@
+body {
+padding:0px;margin:0px;}
+nav ul li {
+    list-style-type: none;
+    display:inline-block ;
+    margin-right: 2px;
+    margin-left: 9px;
+top:1px;text-spacing:30px;right:2px;
+}
+
+
+
+
+#aa{float:right;right:200px;}
+
+input{ border-radius:9px;
+height:40px;width:300px;border-style:outset outset outset;}
+
+
+button{padding:10px;left:100px;top:2000px;}
+.p1{word-spacing:30px;color:blue;font-size:14px;}
+
+
+
+
+
+.down{background-color:#F0F0F0;height:270px;}
